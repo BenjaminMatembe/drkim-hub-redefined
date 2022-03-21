@@ -10,6 +10,10 @@
 * Reactjs is a javasript library for creating single page apps (SPA).
 * npm for installing packages.
 
+## Designs [FIGMA]
+***
+- https://www.figma.com/file/SEZXNIAg42cmpVzQhlWM5e/Untitled?node-id=0%3A1
+
 ### Installation
 ***
 In the terminal
